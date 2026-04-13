@@ -11,3 +11,7 @@ Thumbs.db
 .pnpm-store/
 .vscode/
 .idea/
+
+# Claude Code / Playwright 임시 파일
+.claude/
+.playwright-mcp/
