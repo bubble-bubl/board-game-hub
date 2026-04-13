@@ -1,0 +1,123 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e33]
+  - generic [ref=e34]:
+    - generic [ref=e35]:
+      - heading "MIGHTY" [level=1] [ref=e36]
+      - generic [ref=e38]: 입찰
+      - button "↺ 새 게임" [ref=e39] [cursor=pointer]
+    - generic [ref=e40]:
+      - generic [ref=e42]:
+        - generic [ref=e43]: 🤖
+        - paragraph [ref=e44]: AI-1
+      - generic [ref=e57]:
+        - generic [ref=e58]: 🤖
+        - paragraph [ref=e59]: AI-2
+        - generic [ref=e185]: ●
+      - generic [ref=e72]:
+        - generic [ref=e73]: 🤖
+        - paragraph [ref=e74]: AI-3
+      - generic [ref=e87]:
+        - generic [ref=e88]: 🤖
+        - paragraph [ref=e89]: AI-4
+      - paragraph [ref=e104]: 트릭 영역
+      - generic [ref=e137]:
+        - heading "SCOREBOARD" [level=3] [ref=e138]
+        - generic [ref=e139]:
+          - generic [ref=e186]:
+            - generic [ref=e187]: 공약
+            - generic [ref=e188]: 13점
+          - generic [ref=e140]:
+            - generic [ref=e141]:
+              - generic [ref=e142]: 트릭
+              - generic [ref=e143]: 0 / 10
+            - generic [ref=e144]:
+              - generic [ref=e145]: 획득 점수
+              - generic [ref=e146]: 0점
+            - generic [ref=e189]:
+              - generic [ref=e190]: 목표
+              - generic [ref=e191]: 13점
+    - generic [ref=e147]:
+      - generic [ref=e149]:
+        - generic [ref=e150]: 😊
+        - paragraph [ref=e151]: 나
+      - generic [ref=e164]:
+        - generic [ref=e166]:
+          - generic:
+            - generic: "9"
+            - generic: ♥
+          - generic: ♥
+          - generic:
+            - generic: "9"
+            - generic: ♥
+        - generic [ref=e168]:
+          - generic:
+            - generic: "2"
+            - generic: ♦
+          - generic: ♦
+          - generic:
+            - generic: "2"
+            - generic: ♦
+        - generic [ref=e170]:
+          - generic:
+            - generic: "2"
+            - generic: ♣
+          - generic: ♣
+          - generic:
+            - generic: "2"
+            - generic: ♣
+        - generic [ref=e172]:
+          - generic:
+            - generic: "8"
+            - generic: ♠
+          - generic: ♠
+          - generic:
+            - generic: "8"
+            - generic: ♠
+        - generic [ref=e174]:
+          - generic:
+            - generic: "3"
+            - generic: ♣
+          - generic: ♣
+          - generic:
+            - generic: "3"
+            - generic: ♣
+        - generic [ref=e176]:
+          - generic:
+            - generic: "7"
+            - generic: ♥
+          - generic: ♥
+          - generic:
+            - generic: "7"
+            - generic: ♥
+        - generic [ref=e178]:
+          - generic:
+            - generic: "9"
+            - generic: ♦
+          - generic: ♦
+          - generic:
+            - generic: "9"
+            - generic: ♦
+        - generic [ref=e180]:
+          - generic:
+            - generic: A
+            - generic: ♠
+          - generic: ♠
+          - generic:
+            - generic: A
+            - generic: ♠
+        - generic [ref=e182]:
+          - generic:
+            - generic: K
+            - generic: ♥
+          - generic: ♥
+          - generic:
+            - generic: K
+            - generic: ♥
+        - generic [ref=e184]:
+          - generic:
+            - generic: "7"
+            - generic: ♠
+          - generic: ♠
+          - generic:
+            - generic: "7"
+            - generic: ♠

@@ -1,0 +1,35 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - heading "BoardHub" [level=1] [ref=e4]
+    - button "로그인" [ref=e5] [cursor=pointer]
+  - main [ref=e6]:
+    - generic [ref=e7]:
+      - paragraph [ref=e8]: Online Board Game Hub
+      - heading "보드게임을 즐겨보세요" [level=2] [ref=e9]:
+        - text: 보드게임을
+        - text: 즐겨보세요
+      - paragraph [ref=e10]: AI와 싱글플레이 · 친구와 멀티플레이
+    - generic [ref=e11]:
+      - link "🃏 마이티 카드게임 5인 트릭테이킹 카드게임 플레이 →" [ref=e13] [cursor=pointer]:
+        - /url: /games/mighty
+        - generic [ref=e14]:
+          - generic [ref=e15]: 🃏
+          - heading "마이티" [level=3] [ref=e16]
+          - paragraph [ref=e17]: 카드게임
+          - paragraph [ref=e18]: 5인 트릭테이킹 카드게임
+          - generic [ref=e19]: 플레이 →
+      - generic [ref=e20]:
+        - link "🎲 준비중 곧 출시":
+          - /url: "#"
+          - generic:
+            - generic: 🎲
+            - heading "준비중" [level=3]
+            - paragraph: 곧 출시
+      - generic [ref=e21]:
+        - link "♟️ 준비중 곧 출시":
+          - /url: "#"
+          - generic:
+            - generic: ♟️
+            - heading "준비중" [level=3]
+            - paragraph: 곧 출시
+  - contentinfo [ref=e22]: BoardHub · 마이티 카드게임

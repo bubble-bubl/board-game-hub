@@ -1,0 +1,13 @@
+node_modules
+.next
+dist
+.turbo
+*.env.local
+.env
+.env.production
+.DS_Store
+Thumbs.db
+*.log
+.pnpm-store/
+.vscode/
+.idea/

@@ -1,0 +1,125 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e33]
+  - generic [ref=e34]:
+    - generic [ref=e35]:
+      - heading "MIGHTY" [level=1] [ref=e36]
+      - generic [ref=e37]:
+        - generic [ref=e224]: "트럼프: ♠"
+        - generic [ref=e38]: 트릭 1/10
+      - button "↺ 새 게임" [ref=e39] [cursor=pointer]
+    - generic [ref=e40]:
+      - generic [ref=e42]:
+        - generic [ref=e43]: 👑
+        - paragraph [ref=e44]: AI-1
+      - generic [ref=e57]:
+        - generic [ref=e58]: 🤖
+        - paragraph [ref=e59]: AI-2
+      - generic [ref=e72]:
+        - generic [ref=e73]: 🤖
+        - paragraph [ref=e74]: AI-3
+      - generic [ref=e87]:
+        - generic [ref=e88]: 🤖
+        - paragraph [ref=e89]: AI-4
+      - paragraph [ref=e104]: 트릭 영역
+      - generic [ref=e137]:
+        - heading "SCOREBOARD" [level=3] [ref=e138]
+        - generic [ref=e139]:
+          - generic [ref=e186]:
+            - generic [ref=e187]: 공약
+            - generic [ref=e188]: 21점
+          - generic [ref=e225]:
+            - generic [ref=e226]: 트럼프
+            - generic [ref=e227]: ♠ 스페이드
+          - generic [ref=e228]:
+            - generic [ref=e229]: 주공
+            - generic [ref=e230]: AI-1
+          - generic [ref=e140]:
+            - generic [ref=e141]:
+              - generic [ref=e142]: 트릭
+              - generic [ref=e143]: 0 / 10
+            - generic [ref=e144]:
+              - generic [ref=e145]: 획득 점수
+              - generic [ref=e146]: 0점
+            - generic [ref=e189]:
+              - generic [ref=e190]: 목표
+              - generic [ref=e191]: 21점
+    - generic [ref=e147]:
+      - generic [ref=e149]:
+        - generic [ref=e150]: 😊
+        - paragraph [ref=e151]: 나
+        - generic [ref=e231]: ●
+      - generic [ref=e164]:
+        - generic [ref=e166] [cursor=pointer]:
+          - generic:
+            - generic: "5"
+            - generic: ♠
+          - generic: ♠
+          - generic:
+            - generic: "5"
+            - generic: ♠
+        - generic [ref=e168] [cursor=pointer]:
+          - generic:
+            - generic: Q
+            - generic: ♠
+          - generic: ♠
+          - generic:
+            - generic: Q
+            - generic: ♠
+        - generic [ref=e170] [cursor=pointer]:
+          - generic:
+            - generic: "5"
+            - generic: ♣
+          - generic: ♣
+          - generic:
+            - generic: "5"
+            - generic: ♣
+        - generic [ref=e172] [cursor=pointer]:
+          - generic:
+            - generic: "6"
+            - generic: ♥
+          - generic: ♥
+          - generic:
+            - generic: "6"
+            - generic: ♥
+        - generic [ref=e174] [cursor=pointer]:
+          - generic:
+            - generic: "4"
+            - generic: ♦
+          - generic: ♦
+          - generic:
+            - generic: "4"
+            - generic: ♦
+        - generic [ref=e176] [cursor=pointer]:
+          - generic: 🃏
+        - generic [ref=e178] [cursor=pointer]:
+          - generic:
+            - generic: Q
+            - generic: ♦
+          - generic: ♦
+          - generic:
+            - generic: Q
+            - generic: ♦
+        - generic [ref=e180] [cursor=pointer]:
+          - generic:
+            - generic: "3"
+            - generic: ♠
+          - generic: ♠
+          - generic:
+            - generic: "3"
+            - generic: ♠
+        - generic [ref=e182] [cursor=pointer]:
+          - generic:
+            - generic: "8"
+            - generic: ♠
+          - generic: ♠
+          - generic:
+            - generic: "8"
+            - generic: ♠
+        - generic [ref=e184] [cursor=pointer]:
+          - generic:
+            - generic: "10"
+            - generic: ♦
+          - generic: ♦
+          - generic:
+            - generic: "10"
+            - generic: ♦

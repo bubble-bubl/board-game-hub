@@ -1,0 +1,32 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - link "← BoardHub" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - heading "마이티" [level=1] [ref=e5]
+    - main [ref=e6]:
+      - generic [ref=e7]:
+        - heading "싱글플레이" [level=2] [ref=e8]
+        - paragraph [ref=e9]: AI 4명과 마이티 한 판
+        - generic [ref=e10]:
+          - button "초보 AI 랜덤하게 플레이 ●" [ref=e11] [cursor=pointer]:
+            - generic [ref=e12]:
+              - paragraph [ref=e13]: 초보 AI
+              - paragraph [ref=e14]: 랜덤하게 플레이
+            - generic [ref=e15]: ●
+          - button "중수 AI 전략적으로 플레이" [ref=e16] [cursor=pointer]:
+            - generic [ref=e17]:
+              - paragraph [ref=e18]: 중수 AI
+              - paragraph [ref=e19]: 전략적으로 플레이
+          - button "고수 AI MCTS 알고리즘" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - paragraph [ref=e22]: 고수 AI
+              - paragraph [ref=e23]: MCTS 알고리즘
+        - button "게임 시작" [ref=e24] [cursor=pointer]
+      - generic [ref=e25]:
+        - heading "멀티플레이" [level=2] [ref=e26]
+        - paragraph [ref=e27]: 5인 실시간 대전 (준비중)
+        - button "+ 방 만들기" [disabled] [ref=e29]
+        - paragraph [ref=e31]: 공개 방이 없습니다
+        - generic [ref=e32]: 멀티플레이는 Phase 5에서 구현됩니다
+  - alert [ref=e33]
